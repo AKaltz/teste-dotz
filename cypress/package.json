@@ -1,0 +1,17 @@
+{
+  "name": "Dotz-WebService-API-Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.2.1",
+    "cypress": "^7.4.0"
+  }
+}
